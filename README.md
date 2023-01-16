@@ -1,4 +1,4 @@
-# 👑 baek001 👑
+# 👑 Zzangmigu 👑
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 
