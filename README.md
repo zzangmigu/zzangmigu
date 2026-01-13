@@ -1,4 +1,3 @@
-# 👑 Zzangmigu 👑
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="http://mazandi.herokuapp.com/api?handle=baek001&theme=cold"/>
